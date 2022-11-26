@@ -52,7 +52,7 @@
 <img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/ufo3d.png">
+<img align="right" alt=yomero" width="450px" height="450px" src="./src/program.png">
 <td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
   <details>
     <summary>see more...</summary>
@@ -115,7 +115,7 @@
 <div>
   <a href="https://github.com/HabunoGD1809">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HabunoGD1809&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabunoGD1809&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabunoGD1809&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
