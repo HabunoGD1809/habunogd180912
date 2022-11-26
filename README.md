@@ -6,9 +6,15 @@
   <tr>
     <td>
 
+<<<<<<< HEAD
       [<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
       [<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
       [<img align="left" alt="@HabunoGD1809 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+=======
+[<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
+[<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@habuno_0fj | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+>>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 
     </td>
   </tr>
@@ -17,12 +23,21 @@
 <details>
   <summary>:zap: About me!</summary>
 
+<<<<<<< HEAD
   ### Love 💻!!
   - 👋 Hi, I’m Franklin J. Valdez
   - 👀 I’m interested in creating quality software
   - 🌱 I’m currently learning software development...
   - 💞️ I’m looking to collaborate in open source projects
   - 📫 How to reach me 🙉
+=======
+### Love 💻!!
+- 👋 Hi, I’m Franklin J. Valdez
+- 👀 I’m interested in creating quality software
+- 🌱 I’m currently learning software development...
+- 💞️ I’m looking to collaborate in open source projects
+- 📫 How to reach me 🙉😁
+>>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 </details>
 
 <br />
@@ -40,8 +55,12 @@
     <details>
       <summary>see more...</summary>
 
+<<<<<<< HEAD
       A manager for GIT multi platform.
       Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
+=======
+<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
+>>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 
     </details>
   </td>
@@ -49,6 +68,7 @@
 <tr>
   <td>
 
+<<<<<<< HEAD
     <img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
   </td>
@@ -58,6 +78,18 @@
         target="_blank"><code>vim-better-header</code></a> </h4>
     <details>
       <summary>see more...</summary>
+=======
+<img align="left" alt="vim-better-header | vim-better " width="50px" src="./src/vim-better-header.png" />
+
+</td>
+<td>
+ <img align="right" alt=yolo" width="450px" height="390px" src="./src/program1.gif">
+ </td>
+<td> 
+<h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
+>>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 
       A better automated template header for vim
 
@@ -67,7 +99,11 @@
 </tr>
 <td>
 
+<<<<<<< HEAD
   [<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
+=======
+<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />
+>>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 
 </td>
 <td>
@@ -123,10 +159,18 @@
 <h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
+<<<<<<< HEAD
 - [Cómo obtener la hipotenusa de un triangulo rectangulo C# 10; |
 HabunoGD1809](https://www.youtube.com/watch?v=0ntkPUXTqqo)
 - [API GET C# RNC EXAMEN_1; | HabunoGD1809](https://www.youtube.com/watch?v=pCFLl-68SQg)
 - [PRYECTO FINAL --- INTRODUCCION A LA PROGRAMACION; | HabunoGD1809](https://www.youtube.com/watch?v=8AGWv4lWGaw&t)
+=======
+- [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
+- [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
+- [Cómo obtener la hipotenusa de un triangulo rectangulo C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
+- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
+- [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg)
+>>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@HabunoGD1821/videos)
@@ -155,5 +199,5 @@ HabunoGD1809](https://www.youtube.com/watch?v=0ntkPUXTqqo)
 
 [twitter]: https://twitter.com/franklin_1809
 [youtube]: https://www.youtube.com/c/HabunoGD1809
-[instagram]: https://www.instagram.com/HabunoGD1809/
+[instagram]: https://www.instagram.com/habuno_0fj/
 [facebook]: https://m.facebook.com/HabunoGD1809/
