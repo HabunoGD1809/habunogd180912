@@ -8,7 +8,7 @@
 
 [<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@habuno_0fj | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@ | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 
 </td>
 </tr>
