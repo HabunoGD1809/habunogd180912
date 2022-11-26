@@ -101,9 +101,11 @@
 <h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [Cómo obtener la hipotenusa de un triangulo rectangulo C# 10; | HabunoGD1809](https://www.youtube.com/watch?v=0ntkPUXTqqo)
-- [API GET C# RNC EXAMEN_1; | HabunoGD1809](https://www.youtube.com/watch?v=pCFLl-68SQg)
-- [PRYECTO FINAL --- INTRODUCCION A LA PROGRAMACION; | HabunoGD1809](https://www.youtube.com/watch?v=8AGWv4lWGaw&t)
+- [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
+- [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
+- [Cómo obtener la hipotenusa de un triangulo rectangulo C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
+- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
+- [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@HabunoGD1821/videos)
