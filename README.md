@@ -37,12 +37,13 @@
 <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
 
 </td>
+<img align="right" alt=programmer" width="450px" height="390px" src="./src/program1.gif">
 <td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/gm" target="_blank"><code>GitManager</code></a> </h4>
+
   <details>
     <summary>see more...</summary>
 
-    A manager for GIT multi platform.
-    Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
+    working on this...
 
   </details> </td>
 </tr>
@@ -52,12 +53,12 @@
 <img align="left" alt="header | reddit " width="50px" src="./src/reddit.png" />
 
 </td>
-<img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
+
 <td> <h4 align="left"> <a href="" target="_blank"><code>Reddit</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
-    A better automated template header for vim
+    working on this...
 
   </details> </td>
 </tr>
@@ -71,8 +72,7 @@
   <details>
     <summary>see more...</summary>
 
-    VimTools is functions and settings
-    that will make it easy for you life
+    working on this...
 
   </details> </td>
 </tr>
