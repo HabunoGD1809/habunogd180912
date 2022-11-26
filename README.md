@@ -86,7 +86,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/coding-language.png" width="25px" height="25px"> <img src="./src/app-development.png" width="25px" height="25px">Languages and Tools</h3>
+<h3 align="center"><img src="./src/coding-language.png" width="25px" height="25px">Languages and Tools<img src="./src/app-development.png" width="25px" height="25px"></h3>
 <div align="center">
 
   ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
