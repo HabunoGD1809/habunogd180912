@@ -39,7 +39,6 @@
 <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
 
 </td>
-
 <img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
 
 <td> 
