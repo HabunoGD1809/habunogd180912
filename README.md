@@ -17,7 +17,7 @@
 </table>
 
 <details>
-  <summary><img src="./src/man.png" > About me!</summary>
+  <summary><img src="./src/man.png" width="30px" height="30px"> About me!</summary>
 
 ### Love 💻!!
 - 👋 Hi, I’m Franklin J. Valdez
