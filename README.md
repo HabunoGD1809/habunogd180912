@@ -22,7 +22,7 @@
 - 👀 I’m interested in creating quality software
 - 🌱 I’m currently learning software development...
 - 💞️ I’m looking to collaborate in open source projects
-- 📫 How to reach me 🙉
+- 📫 How to reach me 🙉😁
 </details>
 
 <br />
