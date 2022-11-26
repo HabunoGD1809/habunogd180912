@@ -1,6 +1,6 @@
 [![HabunoGD1809](src/Banner-red.png)](https://www.youtube.com/c/HabunoGD1809)
 
-<h1 align="center">Welcome to my profile, i'm - Franklin J. <img src="./src/programing.png" width="30px"></h1>
+<h1 align="center">Welcome to my profile. I'm - Franklin J. <img src="./src/programing.png" width="30px"></h1>
 
 <table align="right">
 <tr>
@@ -39,6 +39,7 @@
 <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
 
 </td>
+
 <img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
 
 <td> 
