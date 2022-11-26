@@ -8,7 +8,7 @@
 
 [<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@ | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@habuno_0fj | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 
 </td>
 </tr>
@@ -53,7 +53,7 @@
 
 </td>
 <td>
- <img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
+ <img align="right" alt=yolo" width="450px" height="390px" src="./src/program1.gif">
  </td>
 <td> 
 <h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
@@ -135,6 +135,6 @@
 
 [twitter]: https://twitter.com/franklin_1809
 [youtube]: https://www.youtube.com/c/HabunoGD1809
-[instagram]: https://www.instagram.com/HabunoGD1809/
+[instagram]: https://www.instagram.com/habuno_0fj/
 [facebook]: https://m.facebook.com/HabunoGD1809/
 
