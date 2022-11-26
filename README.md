@@ -23,21 +23,12 @@
 <details>
   <summary>:zap: About me!</summary>
 
-<<<<<<< HEAD
   ### Love 💻!!
   - 👋 Hi, I’m Franklin J. Valdez
   - 👀 I’m interested in creating quality software
   - 🌱 I’m currently learning software development...
   - 💞️ I’m looking to collaborate in open source projects
   - 📫 How to reach me 🙉
-=======
-### Love 💻!!
-- 👋 Hi, I’m Franklin J. Valdez
-- 👀 I’m interested in creating quality software
-- 🌱 I’m currently learning software development...
-- 💞️ I’m looking to collaborate in open source projects
-- 📫 How to reach me 🙉😁
->>>>>>> 1086ac488b4ea54b22bf94294180aed2ac58d9fc
 </details>
 
 <br />
