@@ -40,7 +40,10 @@
 
 </td>
 <img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
-<td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/gm" target="_blank"><code>GitManager</code></a> </h4>
+
+<td> 
+
+<h4 align="left"> <a href="https://github.com/HabunoGD1809/gm" target="_blank"><code>GitManager</code></a> </h4>
 
   <details>
     <summary>see more...</summary>
