@@ -1,6 +1,6 @@
 [![HabunoGD1809](src/Banner-red.png)](https://www.youtube.com/c/HabunoGD1809)
 
-<h1 align="center">Welcome to my profile, i'm - Franklin <img src="./src/programing.png" width="30px"></h1>
+<h1 align="center">Welcome to my profile, i'm - Franklin J. <img src="./src/programing.png" width="30px"></h1>
 
 <table align="right">
 <tr>
@@ -9,6 +9,8 @@
 [<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
 [<img align="left" alt="@habuno_0fj | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="HabunoGD1809 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+
 
 </td>
 </tr>
@@ -104,9 +106,8 @@
 - [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
 - [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
 - [Cómo obtener la hipotenusa de un triangulo rectangulo C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
-- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
-- [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg)
-<!-- YOUTUBE:END -->
+
+<!-- YOUTUBE:END --> 
 
 🎬 [more videos...](https://www.youtube.com/@HabunoGD1821/videos)
 
