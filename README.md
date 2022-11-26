@@ -1,6 +1,6 @@
 [![HabunoGD1809](src/Banner-red.png)](https://www.youtube.com/c/HabunoGD1809)
 
-<h1 align="center">Hi there, I'm JW - HabunoGD1809 <img src="./src/programing.png" width="30px"></h1>
+<h1 align="center">Welcome to my profile, i'm - Franklin <img src="./src/programing.png" width="30px"></h1>
 
 <table align="right">
 <tr>
