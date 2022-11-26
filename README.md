@@ -49,7 +49,7 @@
 <tr>
 <td>
 
-<img align="left" alt="vim-better-header | vim-better " width="50px" src="./src/vim-better-header.png" />
+<img align="left" alt="header | vim-better " width="50px" src="./src/reddit.png" />
 
 </td>
 <img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
@@ -108,7 +108,7 @@
 - [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/@HabunoGD1821/videos)
+🎬 [more videos...](https://www.youtube.com/@HabunoGD1821/videos)
 
 ---
 
@@ -132,6 +132,6 @@
 
 [twitter]: https://twitter.com/franklin_1809
 [youtube]: https://www.youtube.com/c/HabunoGD1809
-[instagram]: https://www.instagram.com/HabunoGD1809/
+[instagram]: https://www.instagram.com/habuno_0fj/
 [facebook]: https://m.facebook.com/HabunoGD1809/
 
