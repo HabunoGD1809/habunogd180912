@@ -39,7 +39,7 @@
 <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
 
 </td>
-<img align="center" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
+<img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
 <td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/gm" target="_blank"><code>GitManager</code></a> </h4>
 
   <details>
