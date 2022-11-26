@@ -1,4 +1,4 @@
-[![HabunoGD1809](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/HabunoGD1809)
+[![HabunoGD1809](src/Banner-red.png)](https://www.youtube.com/c/HabunoGD1809)
 
 <h1 align="center">Hi there, I'm JW - HabunoGD1809 <img src="./src/programing.png" width="30px"></h1>
 
@@ -52,7 +52,7 @@
 <img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
+<img align="right" alt=yomero" width="450px" height="450px" src="./src/ufo3d.png">
 <td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
   <details>
     <summary>see more...</summary>
