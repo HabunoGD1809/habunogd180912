@@ -98,7 +98,7 @@
 
 ---
 
-<h3 align="left"><img src="./src/youtubeMini.png" width="70px" height="25px"> latest Videos</h3>
+<h3 align="left"><img src="./src/youtubeMini.png" width="25px" height="35px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
 - [Cómo obtener la hipotenusa de un triangulo rectangulo C# 10; | HabunoGD1809](https://www.youtube.com/watch?v=0ntkPUXTqqo)
@@ -110,7 +110,7 @@
 
 ---
 
-<h3 align="left"><img src="./src/code.png" width="25px" height="40px"> GitHub Stats</h3>
+<h3 align="left"><img src="./src/code.png" width="25px" height="25px"> GitHub Stats</h3>
 
 <div>
   <a href="https://github.com/HabunoGD1809">
