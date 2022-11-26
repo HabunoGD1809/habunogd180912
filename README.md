@@ -34,7 +34,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />]
+[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
 
 </td>
 <td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/gm" target="_blank"><code>GitManager</code></a> </h4>
@@ -52,7 +52,6 @@
 <img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
-  
 <img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
 <td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
   <details>
