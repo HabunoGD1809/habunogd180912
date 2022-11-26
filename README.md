@@ -52,8 +52,11 @@
 <img align="left" alt="vim-better-header | vim-better " width="50px" src="./src/vim-better-header.png" />
 
 </td>
-<img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
-<td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
+<td>
+ <img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
+ </td>
+<td> 
+<h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
