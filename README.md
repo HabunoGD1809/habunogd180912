@@ -4,7 +4,7 @@
 
 <table align="right">
 <tr>
-<td>
+<td></td>
 
 [<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
@@ -39,6 +39,7 @@
 <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
 
 </td>
+
 <img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
 
 <td> 
@@ -52,6 +53,7 @@
 
   </details> </td>
 </tr>
+
 <tr>
 <td>
 
@@ -89,17 +91,24 @@
 ---
 
 <h3 align="center"><img src="./src/binary-code.png" width="25px" height="25px"> Languages and Tools</h3>
-<p align="center">
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a"/> </a>   
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/@HabunoGD1821" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
-</p>
+<div align="center">
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;   
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;  
+  ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
+
+</div>
 
 ---
 
@@ -113,7 +122,7 @@
 - [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg)
 <!-- YOUTUBE:END --> 
 
-🎬 [more videos...](https://www.youtube.com/@HabunoGD1821/videos)
+<img src="./src/video-player.png" width="30px" height="30px"> [More videos...](https://www.youtube.com/@HabunoGD1821/videos)
 
 ---
 
@@ -138,5 +147,5 @@
 [twitter]: https://twitter.com/franklin_1809
 [youtube]: https://www.youtube.com/c/HabunoGD1809
 [instagram]: https://www.instagram.com/habuno_0fj/
-[facebook]: https://m.facebook.com/HabunoGD1809/
+[facebook]: https://www.facebook.com/HabunoGD1809YT/
 
