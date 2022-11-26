@@ -49,7 +49,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />]
+<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
   
