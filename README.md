@@ -17,7 +17,7 @@
 </table>
 
 <details>
-  <summary>:zap: About me!</summary>
+  <summary><img src="./src/man.png" > About me!</summary>
 
 ### Love 💻!!
 - 👋 Hi, I’m Franklin J. Valdez
@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/face-id.png" width="30px" height="30px"> Latest Projects</h3>
+<h3 align="center"><img src="./src/proyecto.png" width="30px" height="30px"> Latest Projects</h3>
 
 <tr>
 <td>
