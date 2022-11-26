@@ -120,7 +120,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabunoGD1809&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HabunoGD1809/HabunoGD1809/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
