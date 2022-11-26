@@ -49,11 +49,11 @@
 <tr>
 <td>
 
-<img align="left" alt="header | vim-better " width="50px" src="./src/reddit.png" />
+<img align="left" alt="header | reddit " width="50px" src="./src/reddit.png" />
 
 </td>
 <img align="right" alt=yomero" width="450px" height="390px" src="./src/program1.gif">
-<td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
+<td> <h4 align="left"> <a href="" target="_blank"><code>Reddit</code></a> </h4>
   <details>
     <summary>see more...</summary>
 
