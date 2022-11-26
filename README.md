@@ -4,7 +4,7 @@
 
 <table align="right">
 <tr>
-<td></td>
+<td>
 
 [<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
 [<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
@@ -39,7 +39,6 @@
 <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
 
 </td>
-
 <img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
 
 <td> 
@@ -53,7 +52,6 @@
 
   </details> </td>
 </tr>
-
 <tr>
 <td>
 
