@@ -6,11 +6,10 @@
 <tr>
 <td>
 
-[<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@franklin_1809 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@habuno_0fj | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="HabunoGD1809 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-
+[<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />](https://www.youtube.com/c/HabunoGD1809)
+[<img align="left" alt="@HabunoGD1809 | Twitter" width="22px" src="./src/twitter.png" />](https://twitter.com/HabunoGD1809)
+[<img align="left" alt="@HabunoGD1809 | Instagram" width="22px" src="./src/instagram.png" />](https://www.instagram.com/HabunoGD1809/)
+[<img align="left" alt="HabunoGD1809 | Facebook" width="22px" src="./src/facebook.png" />](https://www.facebook.com/HabunoGD1809YT)
 
 </td>
 </tr>
@@ -27,88 +26,51 @@
 - 📫 How to reach me 🙉😁
 </details>
 
-<br />
-
----
-
-<h3 align="center"><img src="./src/proyecto.png" width="30px" height="30px"> Latest Projects</h3>
-
-<tr>
-<td>
-
-<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />
-
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HabunoGD1809&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HabunoGD1809&theme=dark&hide_border=false" /> 
 </td>
-<img align="right" alt=programmer" width="350px" height="290px" src="./src/program1.gif">
 
-<td> 
+<td width="50%" align="center">
 
-<h4 align="left"> <a href="https://github.com/HabunoGD1809/gm" target="_blank"><code>GitManager</code></a> </h4>
-
-  <details>
-    <summary>see more...</summary>
-
-    working on this...
-
-  </details> </td>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HabunoGD1809&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
 </tr>
-<tr>
-<td>
+</table>
+<!--- stats (end) -->
 
-<img align="left" alt="header | reddit " width="50px" src="./src/reddit.png" />
+### 🏆 GitHub Profile Trophy
 
-</td>
+[![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-<td> <h4 align="left"> <a href="" target="_blank"><code>Reddit</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
+[twitter]: https://twitter.com/franklin_1809
+[youtube]: https://www.youtube.com/c/HabunoGD1809
+[instagram]: https://www.instagram.com/habuno_0fj/
+[facebook]: https://www.facebook.com/HabunoGD1809YT/
 
-    working on this...
-
-  </details> </td>
-</tr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/HabunoGD1809/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    working on this...
-
-  </details> </td>
-
-
-<br />
-<br />
-
----
-
-<h3 align="center"><img src="./src/coding-language.png" width="25px" height="25px">Languages and Tools<img src="./src/app-development.png" width="25px" height="25px"></h3>
+<!--- snake -->
 <div align="center">
-
-  ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;   
-
+  <img  src="https://github.com/HabunoGD1809/HabunoGD1809/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
+<!--- snake -->
 
----
-
-<h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> Latest Videos</h3>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> Latest Videos</h3></summary> 
+  </ul>
+</div>
 
 <!-- YOUTUBE:START -->
 - [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
@@ -122,26 +84,18 @@
 
 ---
 
-<h3 align="left"><img src="./src/code.png" width="25px" height="25px"> GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/HabunoGD1809">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HabunoGD1809&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabunoGD1809&layout=compact&langs_count=7&theme=dark"/>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,photoshop,mysql,javascript,python,java,visualstudio,figma,postman,html,css,mongodb,ps,md,github,flutter,cs,bash,linux,wordpress,postgres,idea,php&perline=14" />
+  </a>
+</p>
 
-![Snake animation](https://github.com/HabunoGD1809/HabunoGD1809/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-[twitter]: https://twitter.com/franklin_1809
-[youtube]: https://www.youtube.com/c/HabunoGD1809
-[instagram]: https://www.instagram.com/habuno_0fj/
-[facebook]: https://www.facebook.com/HabunoGD1809YT/
-
+<!-- Divisor con la imagen -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
