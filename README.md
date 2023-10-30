@@ -15,7 +15,6 @@
 </tr>
 </table>
 
-<details>
   <summary><img src="./src/man.png" width="30px" height="30px"> About me!</summary>
 
 ### Love 💻!!
@@ -24,7 +23,6 @@
 - 🌱 I’m currently learning software development...
 - 💞️ I’m looking to collaborate in open source projects
 - 📫 How to reach me 🙉😁
-</details>
 
 <!-- Divisor con la imagen -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -77,40 +75,46 @@
 </div>
 <!--- snake -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!-- YOUTUBE:START -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> Latest Videos</h3></summary> 
-
-
-<!-- YOUTUBE:START -->
-
-  - [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
+    
+-[PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
   - [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
   - [HIPOTENUSA TRIANGULO RECTANGULO C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
   <!-- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
   - [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg) -->
-<!-- YOUTUBE:END --> 
 
-<img src="./src/video-player.png" width="30px" height="30px"> [More videos...](https://www.youtube.com/@HabunoGD1821/videos)
+  <img src="./src/video-player.png" width="30px" height="30px"> [More videos...](https://www.youtube.com/@HabunoGD1821/videos)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   </ul>
 </div>
+<!-- YOUTUBE:END --> 
 
 <div id="user-content-toc">
   <ul align="center">
 
-### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-[twitter]: https://twitter.com/franklin_1809
-[youtube]: https://www.youtube.com/c/HabunoGD1809
-[instagram]: https://www.instagram.com/habuno_0fj/
-[facebook]: https://www.facebook.com/HabunoGD1809YT/
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> GitHub Profile Trophy🏆🏆</h2></summary>
   </ul>
 </div>
+   
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+  [twitter]: https://twitter.com/franklin_1809
+  [youtube]: https://www.youtube.com/c/HabunoGD1809
+  [instagram]: https://www.instagram.com/habuno_0fj/
+  [facebook]: https://www.facebook.com/HabunoGD1809YT/
+  </ul>
+</div>
+
 
