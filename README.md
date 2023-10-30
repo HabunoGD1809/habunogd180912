@@ -26,6 +26,26 @@
 - 📫 How to reach me 🙉😁
 </details>
 
+<!-- Divisor con la imagen -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,photoshop,mysql,javascript,python,java,visualstudio,figma,postman,html,css,mongodb,ps,md,github,flutter,cs,bash,linux,wordpress,postgres,idea,php&perline=14" />
+  </a>
+</p>
+
+<!-- Divisor con la imagen -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -46,18 +66,6 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-[twitter]: https://twitter.com/franklin_1809
-[youtube]: https://www.youtube.com/c/HabunoGD1809
-[instagram]: https://www.instagram.com/habuno_0fj/
-[facebook]: https://www.facebook.com/HabunoGD1809YT/
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 
 <!--- snake -->
 <div align="center">
@@ -84,18 +92,17 @@
 
 ---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,photoshop,mysql,javascript,python,java,visualstudio,figma,postman,html,css,mongodb,ps,md,github,flutter,cs,bash,linux,wordpress,postgres,idea,php&perline=14" />
-  </a>
-</p>
 
-<!-- Divisor con la imagen -->
+
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+[twitter]: https://twitter.com/franklin_1809
+[youtube]: https://www.youtube.com/c/HabunoGD1809
+[instagram]: https://www.instagram.com/habuno_0fj/
+[facebook]: https://www.facebook.com/HabunoGD1809YT/
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
