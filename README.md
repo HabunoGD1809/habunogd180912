@@ -81,22 +81,25 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> Latest Videos</h3></summary> 
-  </ul>
-</div>
+
 
 <!-- YOUTUBE:START -->
-- [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
-- [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
-- [HIPOTENUSA TRIANGULO RECTANGULO C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
-<!-- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
-- [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg) -->
+
+  - [PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
+  - [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
+  - [HIPOTENUSA TRIANGULO RECTANGULO C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
+  <!-- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
+  - [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg) -->
 <!-- YOUTUBE:END --> 
 
 <img src="./src/video-player.png" width="30px" height="30px"> [More videos...](https://www.youtube.com/@HabunoGD1821/videos)
 
 ---
+  </ul>
+</div>
 
-
+<div id="user-content-toc">
+  <ul align="center">
 
 ### 🏆 GitHub Profile Trophy
 
@@ -108,5 +111,6 @@
 [facebook]: https://www.facebook.com/HabunoGD1809YT/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+  </ul>
+</div>
 
