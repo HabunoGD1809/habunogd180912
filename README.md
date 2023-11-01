@@ -78,22 +78,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- YOUTUBE:START -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 align="left"><img src="./src/youtubeMini.png" width="30px" height="30px"> Latest Videos</h3></summary> 
-    
--[PRYECTO FINAL  --- INTRODUCCION A LA PROGRAMACION](https://www.youtube.com/watch?v=8AGWv4lWGaw)
-  - [API GET C# RNC EXAMEN_1](https://www.youtube.com/watch?v=pCFLl-68SQg)
-  - [HIPOTENUSA TRIANGULO RECTANGULO C# 10.](https://www.youtube.com/watch?v=0ntkPUXTqqo)
-  <!-- [AuronPlay invita a Nate Gentile a jugar AMONG US y le dice que &quot;LO QUIERE&quot;](https://www.youtube.com/watch?v=HqiQqMi5_pU)
-  - [ROCKET LEAGUE &lpar;MEMES RECOPILACIÓN&rpar;](https://www.youtube.com/watch?v=wagMfhZFYSg) -->
-
-  <img src="./src/video-player.png" width="30px" height="30px"> [More videos...](https://www.youtube.com/@HabunoGD1821/videos)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-  </ul>
-</div>
+- [La solución definitiva para ver YouTube sin anuncios con Adblock](https://www.youtube.com/watch?v=TywqvQAnMds)
+- [APLICACIONES MOVILES [2023]](https://www.youtube.com/watch?v=mXstidkMmZk)
+- [APP EXAMEN](https://www.youtube.com/watch?v=8m6MnZTTk9M)
+- [Aplicacion con Flutter](https://www.youtube.com/watch?v=am7RFJc21FQ)
+- [Valores esenciales](https://www.youtube.com/watch?v=mbBvyBAho7s)
 <!-- YOUTUBE:END --> 
 
 <div id="user-content-toc">
