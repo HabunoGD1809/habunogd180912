@@ -89,3 +89,10 @@ const franklin = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+## 🐍 A Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://github.com/HabunoGD1809/HabunoGD1809/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
