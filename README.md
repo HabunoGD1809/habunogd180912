@@ -1,109 +1,91 @@
-[![HabunoGD1809](src/Banner-red.png)](https://www.youtube.com/c/HabunoGD1809)
+# <div align="center">👋 Welcome, I'm Franklin J!</div>
 
-<h1 align="center">Welcome to my profile. I'm - Franklin J. <img src="./src/programing.png" width="30px"></h1>
-
-<table align="right">
-<tr>
-<td>
-
-[<img align="left" alt="HabunoGD1809 | YouTube" width="22px" src="./src/youtube.png" />](https://www.youtube.com/c/HabunoGD1809)
-[<img align="left" alt="@HabunoGD1809 | Twitter" width="22px" src="./src/twitter.png" />](https://twitter.com/HabunoGD1809)
-[<img align="left" alt="@HabunoGD1809 | Instagram" width="22px" src="./src/instagram.png" />](https://www.instagram.com/HabunoGD1809/)
-[<img align="left" alt="HabunoGD1809 | Facebook" width="22px" src="./src/facebook.png" />](https://www.facebook.com/HabunoGD1809YT)
-
-</td>
-</tr>
-</table>
-
-  <summary><img src="./src/man.png" width="30px" height="30px"> About me!</summary>
-
-### Love 💻!!
-- 👋 Hi, I’m Franklin J. Valdez
-- 👀 I’m interested in creating quality software
-- 🌱 I’m currently learning software development...
-- 💞️ I’m looking to collaborate in open source projects
-- 📫 How to reach me 🙉😁
-
-<!-- Divisor con la imagen -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,vscode,photoshop,mysql,javascript,python,java,visualstudio,figma,postman,html,css,mongodb,ps,md,github,flutter,cs,bash,linux,wordpress,postgres,idea,php&perline=14" />
-  </a>
-</p>
-
-<!-- Divisor con la imagen -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="src/Banner-red.png" width="100%">
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HabunoGD1809&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HabunoGD1809&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HabunoGD1809&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- snake -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HabunoGD1809/HabunoGD1809/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HabunoGD1809/HabunoGD1809/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HabunoGD1809/HabunoGD1809/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Software+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
-<!--- snake -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<div align="center">
+  
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/HabunoGD1809)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HabunoGD1809)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/HabunoGD1809/)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/HabunoGD1809YT)
+  
+</div>
+
+## 🚀 About Me
+
+```javascript
+const franklin = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "Python", "Java", "C#", "PHP"],
+    currentFocus: "Software Development",
+    passions: ["Creating Quality Software", "Open Source", "Problem Solving"],
+    funFact: "I love turning coffee into code! ☕️"
+};
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabunoGD1809&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HabunoGD1809&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabunoGD1809&theme=radical&hide_border=true" />
+</div>
+
+## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [UNLOCK PRACTICE MUSIC - Geometry Dash 2.2](https://www.youtube.com/watch?v=6qps8P1p4Lw)
-- [Examen II - Aplicacion de Emergencia  911 en Flutter](https://www.youtube.com/watch?v=8_tM3g0p-0k)
+- [Examen II - Aplicacion de Emergencia 911 en Flutter](https://www.youtube.com/watch?v=8_tM3g0p-0k)
 - [La solución definitiva para ver YouTube sin anuncios con Adblock](https://www.youtube.com/watch?v=TywqvQAnMds)
 - [APLICACIONES MOVILES [2023]](https://www.youtube.com/watch?v=mXstidkMmZk)
 - [Valores esenciales](https://www.youtube.com/watch?v=mbBvyBAho7s)
-<!-- YOUTUBE:END --> 
+<!-- YOUTUBE:END -->
 
-<div id="user-content-toc">
-  <ul align="center">
+## 🏆 GitHub Trophies
 
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-  <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> GitHub Profile Trophy🏆🏆</h2></summary>
-  </ul>
-</div>
-   
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=HabunoGD1809&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
-  [twitter]: https://twitter.com/franklin_1809
-  [youtube]: https://www.youtube.com/c/HabunoGD1809
-  [instagram]: https://www.instagram.com/habuno_0fj/
-  [facebook]: https://www.facebook.com/HabunoGD1809YT/
-  </ul>
 </div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
