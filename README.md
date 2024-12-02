@@ -92,7 +92,9 @@ const franklin = {
 
 ## 🐍 A Snake Eating My Contributions
 
-<div align="center">
-  <img src="https://github.com/HabunoGD1809/HabunoGD1809/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
