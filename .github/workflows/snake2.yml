@@ -1,0 +1,23 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main  # Cambia "main" al nombre de tu rama principal si es diferente
+  schedule:
+    - cron: "0 0 * * *"  # Ejecuta todos los días a medianoche UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: HabunoGD1809
+          outputs: dist/snake.svg
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated snake animation"
+          file_pattern: dist/snake.svg
