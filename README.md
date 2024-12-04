@@ -1,4 +1,4 @@
-# <div align="center">👋 Welcome, I'm Franklin J!</div>
+# <div align="center">👋 Welcome, I'm Franklin J.!</div>
 
 <img src="src/Banner-red.png" width="100%">
 
@@ -21,7 +21,7 @@
 ```javascript
 const franklin = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "Java", "C#", "PHP"],
+    code: ["JavaScript", "Python", "Java", "C#", "PostgreSQL"],
     currentFocus: "Software Development",
     passions: ["Creating Quality Software", "Open Source", "Problem Solving"],
     funFact: "I love turning coffee into code! ☕️"
