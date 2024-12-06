@@ -4,7 +4,7 @@ uses: Platane/snk@v3.2.0
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "4 0 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
